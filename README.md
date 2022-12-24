@@ -1,9 +1,11 @@
 # recuperatorio nodejs
 
-# para hacer correr el proyecto
+# PARA HACER CORRER EL PROYECTO
 
+npm install
 node index.js
 
+# INFORMACION ADICIONAL
 # el proyecto usa 
 npm install body-parser --save
 
